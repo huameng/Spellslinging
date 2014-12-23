@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>SCG ELO</title>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="elo.js" charset="utf-8"></script>
+</head>
+<body>
+<style>
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: start;
+}
+</style>
+<svg class="chart"></svg>
+<script>
+var ratings = [];
+var xhr = readTextFile("http://localhost:8000/standard.txt");
+xhr.onload = function (e) {
+  if (xhr.readyState === 4) {
+    if (xhr.status === 200) {
+      var lines = xhr.responseText.split('\n');
+      console.log(lines.length);
+      for (var i=0;i<lines.length;++i) {
+        ratings.push(lines[i]);
+      }
+      logRatings(ratings);
+      console.log("hello, world");
+    } else {
+      console.error(xhr.statusText);
+    }
+  }
+};
+
+var ratingArray = []
+
+function bars(ratings) {
+  var map = {};
+  for(var i=1400;i<1900;i+=20) {
+    map[i.toString()] = 0;
+    ratingArray.push(i);
+  }
+  // max: 1881
+  // min: 1434
+  for(var i=0;i<ratings.length;++i) {
+    var newRating = ratingFloor(ratings[i]);
+    if (newRating.toString() === "") continue;
+    map[newRating.toString()]++;
+  }
+  return map;
+}
+
+function ratingFloor(x) {
+  while(x % 20 != 0) {
+    --x;
+  }
+  return x;
+}
+  
+function logRatings(ratings) {
+  var data = bars(ratings);
+  console.log(data);
+  
+  var width = 4000, barHeight = 30;
+  
+  var chart = d3.select(".chart")
+    .attr("width", width)
+    .attr("height", 6000);
+    
+  var bar = chart.selectAll("g")
+    .data(ratingArray)
+  .enter().append("g")
+    .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+
+  bar.append("rect")
+    .attr("width", function(d) { return data[d]/3; })
+    .attr("height", barHeight - 1);
+
+  bar.append("text")
+    .attr("x", function(d) { return 0; })
+    .attr("y", barHeight / 2)
+    .attr("dy", ".35em")
+    .text(function(d) { return d.toString() + "-" + (d+19).toString() + ": " + data[d.toString()]; });
+}
+
+
+</script>
+
+</body>
+</html>

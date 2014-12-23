@@ -1,0 +1,44 @@
+
+<table shade="1" shadecolor="#ffffcc" w="500">
+<sortrow><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></sortrow>
+<tr><td>  1</td><td>Donegan, Dylan</td><td>Won  2-1</td><td>vs.</td><td>Lossett, Joe</td></tr>
+<tr><td>  2</td><td>Scherer, Caleb</td><td>Lost 1-2</td><td>vs.</td><td>Black, Sam</td></tr>
+<tr><td>  3</td><td>Ruprecht, Adam</td><td>Lost 0-2</td><td>vs.</td><td>Davis, Jim</td></tr>
+<tr><td>  4</td><td>Fleisher, Ryan</td><td>Won  2-1</td><td>vs.</td><td>Braverman, Phillip</td></tr>
+<tr><td>  5</td><td>Nelson, Evan</td><td>Won  2-0</td><td>vs.</td><td>Duterte, Daniel</td></tr>
+<tr><td>  6</td><td>Yoo, Bradley</td><td>Won  2-0</td><td>vs.</td><td>Dizon, Marcel</td></tr>
+<tr><td>  7</td><td>Wessel, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Tickal, Matthew</td></tr>
+<tr><td>  8</td><td>Wong, Charles</td><td>Lost 1-2</td><td>vs.</td><td>Jessup, Danny</td></tr>
+<tr><td>  9</td><td>Anderson, Todd</td><td>Won  2-1</td><td>vs.</td><td>Ross, Tom</td></tr>
+<tr><td> 10</td><td>Pardee, Sam M</td><td>Won  2-0</td><td>vs.</td><td>McDarby, David</td></tr>
+<tr><td> 11</td><td>Wolloch, Sam</td><td>Lost 0-2</td><td>vs.</td><td>Crawley, Jeremy</td></tr>
+<tr><td> 12</td><td>Outland, Ben</td><td>Lost 0-2</td><td>vs.</td><td>Weller-Gordon, Brian</td></tr>
+<tr><td> 13</td><td>Nass, Matthew</td><td>Lost 1-2</td><td>vs.</td><td>Petersen, Logan</td></tr>
+<tr><td> 14</td><td>Merriam, Ross</td><td>Lost 0-2</td><td>vs.</td><td>Bass, Joseph</td></tr>
+<tr><td> 15</td><td>Ketter, Kent</td><td>Lost 1-2</td><td>vs.</td><td>Lozano, Andrew</td></tr>
+<tr><td> 16</td><td>Chilbert, Colin</td><td>Won  2-0</td><td>vs.</td><td>Gardiner, James</td></tr>
+<tr><td> 17</td><td>Marshall, Chris</td><td>Won  2-1</td><td>vs.</td><td>Martin, Russell</td></tr>
+<tr><td> 18</td><td>Yost, Austin</td><td>Won  2-1</td><td>vs.</td><td>Kastel, Chad</td></tr>
+<tr><td> 19</td><td>Lingelbach, Cody</td><td>Lost 1-2</td><td>vs.</td><td>Keith, Jody M</td></tr>
+<tr><td> 20</td><td>Stroud, David</td><td>Lost 1-2</td><td>vs.</td><td>Gil, Nick</td></tr>
+<tr><td> 21</td><td>Rutherford, Brad</td><td>Lost 1-2</td><td>vs.</td><td>Mize, Logan</td></tr>
+<tr><td> 22</td><td>Jessup, Andrew</td><td>Lost 0-2</td><td>vs.</td><td>Phelps, Michael</td></tr>
+<tr><td> 23</td><td>Freedman, Henry</td><td>Lost 1-2</td><td>vs.</td><td>Mitchell, Greg</td></tr>
+<tr><td> 24</td><td>Hunsaker, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Uppal, Justin</td></tr>
+<tr><td> 25</td><td>Peloquin, Gregory</td><td>Lost 1-2</td><td>vs.</td><td>Yu, Shawn</td></tr>
+<tr><td> 26</td><td>Brubaker, Daniel</td><td>Won  2-0</td><td>vs.</td><td>Scales, Zach</td></tr>
+<tr><td> 27</td><td>Lytle, Tyler</td><td>Lost 1-2</td><td>vs.</td><td>Dela Cruz, Jimmy B</td></tr>
+<tr><td> 28</td><td>Skalnes, Erik</td><td>Won  2-1</td><td>vs.</td><td>Nelson, Brad</td></tr>
+<tr><td> 29</td><td>Cascio, Brady</td><td>Lost 0-2</td><td>vs.</td><td>Kory, Jacob</td></tr>
+<tr><td> 30</td><td>Johnson, Andrew</td><td>Won  2-1</td><td>vs.</td><td>Pradeep, Ranjan</td></tr>
+<tr><td> 31</td><td>May, Alec</td><td>Won  2-1</td><td>vs.</td><td>Johnson, Nick</td></tr>
+<tr><td> 32</td><td>Hunter, Wilson</td><td>Won  2-0</td><td>vs.</td><td>Thompson, Gerry</td></tr>
+<tr><td> 33</td><td>Montgomery, Dale</td><td>Won  2-1</td><td>vs.</td><td>Tang, Jeffery</td></tr>
+<tr><td> 34</td><td>Salem, Jonathan</td><td>Lost 1-2</td><td>vs.</td><td>Hampton, Jesse</td></tr>
+<tr><td> 35</td><td>Fain, Kinny</td><td>Lost 1-2</td><td>vs.</td><td>Hopkins, Matt</td></tr>
+<tr><td> 36</td><td>Johnson, Nathan</td><td>Won  2-0</td><td>vs.</td><td>Cortez, Michael</td></tr>
+<tr><td> 37</td><td>Ongaro, Michael</td><td>Lost 1-2</td><td>vs.</td><td>Hatch, Gregory</td></tr>
+<tr><td> 38</td><td>Hopkins, Kris</td><td>Lost 1-2</td><td>vs.</td><td>Ball, Nathan</td></tr>
+<tr><td> 39</td><td>Lake, Marshall</td><td>Won  2-0</td><td>vs.</td><td>Burns, Richard</td></tr>
+<tr><td> 40</td><td>Jain-Washburn, Ethan</td><td>Lost 1-2</td><td>vs.</td><td>Kelley, Fred</td></tr>
+</table>

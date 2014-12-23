@@ -1,0 +1,284 @@
+
+<table shade="1" shadecolor="#ffffcc" w="500">
+<sortrow><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></sortrow>
+<tr><td>  1</td><td>Krenik, Alex</td><td>Won  2-1</td><td>vs.</td><td>Mccloud, Logan</td></tr>
+<tr><td>  2</td><td>Bowles, Richard</td><td>Won  2-0</td><td>vs.</td><td>Chestnut, Logan</td></tr>
+<tr><td>  3</td><td>Lee, Mike</td><td>Lost 0-2</td><td>vs.</td><td>Robbins, Jordon</td></tr>
+<tr><td>  4</td><td>Van Sciver, Ken</td><td>Won  2-1</td><td>vs.</td><td>Allen, Dustin C</td></tr>
+<tr><td>  5</td><td>Henricks, J.T.</td><td>Won  2-1</td><td>vs.</td><td>Senn, Jonathan</td></tr>
+<tr><td>  6</td><td>Counts, Walt</td><td>Won  2-1</td><td>vs.</td><td>Fulk, David C</td></tr>
+<tr><td>  7</td><td>Workun, Zac</td><td>Won  2-1</td><td>vs.</td><td>Williams, Charissa</td></tr>
+<tr><td>  8</td><td>Page, Joey R</td><td>Lost 1-2</td><td>vs.</td><td>Miller, James L</td></tr>
+<tr><td>  9</td><td>Benns, Brian</td><td>Won  2-0</td><td>vs.</td><td>Howell, Nathan</td></tr>
+<tr><td> 10</td><td>Borelli, Shane</td><td>Lost 1-2</td><td>vs.</td><td>Marshall, Chris D</td></tr>
+<tr><td> 11</td><td>Fernandez, Richard C</td><td>Lost 0-2</td><td>vs.</td><td>Eannello, Joe</td></tr>
+<tr><td> 12</td><td>Henry, Jeremy</td><td>Won  2-1</td><td>vs.</td><td>Moore, Nick</td></tr>
+<tr><td> 13</td><td>Krause, Joseph</td><td>Won  2-0</td><td>vs.</td><td>Gaston, Jason</td></tr>
+<tr><td> 14</td><td>Richtsmeier, Gene R</td><td>Drew 1-1-1</td><td>vs.</td><td>King, John</td></tr>
+<tr><td> 15</td><td>Cates, Weston M</td><td>Won  2-0</td><td>vs.</td><td>Smith, Brandon</td></tr>
+<tr><td> 16</td><td>Donegan, Dylan</td><td>Lost 0-2</td><td>vs.</td><td>Holmes, Trevor</td></tr>
+<tr><td> 17</td><td>Miller, Timothy</td><td>Lost 0-2</td><td>vs.</td><td>Hatch, Gregory A</td></tr>
+<tr><td> 18</td><td>VanMeter, Chris E</td><td>Won  2-0</td><td>vs.</td><td>Hipp, Ryan</td></tr>
+<tr><td> 19</td><td>Kenner, Lauren</td><td>Won  2-0</td><td>vs.</td><td>Sukhram, Joel</td></tr>
+<tr><td> 20</td><td>Rill, Eric T</td><td>Won  2-1</td><td>vs.</td><td>Whitworth, Zac</td></tr>
+<tr><td> 21</td><td>Reckenberger, Hunter</td><td>Won  2-1</td><td>vs.</td><td>Lazenby, Skip</td></tr>
+<tr><td> 22</td><td>Ezell, Cameron</td><td>Lost 0-2</td><td>vs.</td><td>Collins, Bj</td></tr>
+<tr><td> 23</td><td>Fuson, Robert</td><td>Won  2-0</td><td>vs.</td><td>Donaldson, Darryl</td></tr>
+<tr><td> 24</td><td>Yorick, Warren</td><td>Lost 0-2</td><td>vs.</td><td>Bhanot, Meru D</td></tr>
+<tr><td> 25</td><td>Cockrell, Joseph</td><td>Lost 0-2</td><td>vs.</td><td>Brahmer, Bryan R</td></tr>
+<tr><td> 26</td><td>Jones, Greg S</td><td>Won  2-1</td><td>vs.</td><td>Sarver, Alex</td></tr>
+<tr><td> 27</td><td>Arch, Clayton</td><td>Won  2-1</td><td>vs.</td><td>Boswell, Andrew</td></tr>
+<tr><td> 28</td><td>Tracy, Justin</td><td>Won  2-1</td><td>vs.</td><td>Markiewicz, Walt</td></tr>
+<tr><td> 29</td><td>Macedo, Ryan A</td><td>Won  2-0</td><td>vs.</td><td>Bressler, Bart</td></tr>
+<tr><td> 30</td><td>Mckissick, Justin</td><td>Won  2-1</td><td>vs.</td><td>Ragan, Ben</td></tr>
+<tr><td> 31</td><td>Wilds, Breannah</td><td>Lost 1-2</td><td>vs.</td><td>Fonseca, Bernardo M</td></tr>
+<tr><td> 32</td><td>Zell, Susan</td><td>Drew 1-1-1</td><td>vs.</td><td>Bova, Justin A</td></tr>
+<tr><td> 33</td><td>Stephens, Charles</td><td>Won  2-0</td><td>vs.</td><td>Long, David</td></tr>
+<tr><td> 34</td><td>Baker, Chris T</td><td>Won  2-0</td><td>vs.</td><td>Schlegel, Thomas</td></tr>
+<tr><td> 35</td><td>Gary, Sidney</td><td>Won  2-0</td><td>vs.</td><td>Kane, Stephen</td></tr>
+<tr><td> 36</td><td>Graham, Dwayne</td><td>Won  2-0</td><td>vs.</td><td>Jackson, Elijah</td></tr>
+<tr><td> 37</td><td>Norton, Houston</td><td>Lost 0-2</td><td>vs.</td><td>Winters, John T</td></tr>
+<tr><td> 38</td><td>Hodges, Rob</td><td>Lost 0-2</td><td>vs.</td><td>Plott, Wyatt</td></tr>
+<tr><td> 39</td><td>Becker, Shawn B</td><td>Drew 1-1-1</td><td>vs.</td><td>Shifflett, Brandon</td></tr>
+<tr><td> 40</td><td>Slaughter, Johnathan</td><td>Won  2-1</td><td>vs.</td><td>Price, Devin</td></tr>
+<tr><td> 41</td><td>Flores, Oscar R</td><td>Won  2-0</td><td>vs.</td><td>Marlow, Michael K</td></tr>
+<tr><td> 42</td><td>Holmes, Jeff</td><td>Lost 0-2</td><td>vs.</td><td>Neighbors, Jacob D</td></tr>
+<tr><td> 43</td><td>Sacher, AJ</td><td>Won  2-0</td><td>vs.</td><td>Phillips, Erin</td></tr>
+<tr><td> 44</td><td>Volz, Andrew A</td><td>Lost 1-2</td><td>vs.</td><td>Anderson, Marc</td></tr>
+<tr><td> 45</td><td>Jeyakaran, Zach</td><td>Won  2-0</td><td>vs.</td><td>White, Kyle</td></tr>
+<tr><td> 46</td><td>Clark, Anthonlee K</td><td>Lost 1-2</td><td>vs.</td><td>Hon, Alex</td></tr>
+<tr><td> 47</td><td>Miller, Daniel C</td><td>Won  2-1</td><td>vs.</td><td>Clouse, Brad T</td></tr>
+<tr><td> 48</td><td>Shackleford, Preston</td><td>Lost 1-2</td><td>vs.</td><td>Odom, Mitch K</td></tr>
+<tr><td> 49</td><td>Whitman, Thomas</td><td>Won  2-0</td><td>vs.</td><td>Durham, Robert</td></tr>
+<tr><td> 50</td><td>Butler, Jessie</td><td>Won  2-1</td><td>vs.</td><td>Horne, Stephen</td></tr>
+<tr><td> 51</td><td>Hatch, Matthew A</td><td>Won  2-0</td><td>vs.</td><td>Anixter, Nicky</td></tr>
+<tr><td> 52</td><td>Evans, Mark</td><td>Lost 1-2</td><td>vs.</td><td>Taylor, John</td></tr>
+<tr><td> 53</td><td>Knarich, Stephen</td><td>Won  2-1</td><td>vs.</td><td>Boozer, Phillip Christopher</td></tr>
+<tr><td> 54</td><td>Garner, Elliot</td><td>Lost 1-2</td><td>vs.</td><td>Wong, Kasun</td></tr>
+<tr><td> 55</td><td>Davis, Shawn</td><td>Lost 0-2</td><td>vs.</td><td>Swyryt, Anthony J</td></tr>
+<tr><td> 56</td><td>Bernal, Joe W</td><td>Won  2-0</td><td>vs.</td><td>Woolwine, Michael</td></tr>
+<tr><td> 57</td><td>Bransfield, Justin D</td><td>Lost 0-2</td><td>vs.</td><td>Harrison, Travis P</td></tr>
+<tr><td> 58</td><td>Hoehn, Andrew</td><td>Lost 1-2</td><td>vs.</td><td>Trussell, Eric</td></tr>
+<tr><td> 59</td><td>Phillips, Randy J</td><td>Lost 0-2</td><td>vs.</td><td>Olive, Robert</td></tr>
+<tr><td> 60</td><td>Temenak, Robert</td><td>Lost 0-2</td><td>vs.</td><td>Bush, Stephen W</td></tr>
+<tr><td> 61</td><td>Edelkamp, Fred S</td><td>Won  2-1</td><td>vs.</td><td>Veccie, Nick</td></tr>
+<tr><td> 62</td><td>Bargo, Craig W</td><td>Drew 1-1-1</td><td>vs.</td><td>Giddins, John</td></tr>
+<tr><td> 63</td><td>Corvese, Harry</td><td>Won  2-1</td><td>vs.</td><td>Hammac, Greg</td></tr>
+<tr><td> 64</td><td>Cuvelier, John P</td><td>Won  2-0</td><td>vs.</td><td>Warner, Chad</td></tr>
+<tr><td> 65</td><td>Russow, Martin</td><td>Won  2-0</td><td>vs.</td><td>Bloodworth, William</td></tr>
+<tr><td> 66</td><td>Murphy, Maxwell</td><td>Won  2-1</td><td>vs.</td><td>Charland, Nicholas</td></tr>
+<tr><td> 67</td><td>Sheppard, Bradley</td><td>Lost 0-2</td><td>vs.</td><td>Hartman, Reed G</td></tr>
+<tr><td> 68</td><td>Stevens, Ben</td><td>Lost 1-2</td><td>vs.</td><td>Bedford, Tyler</td></tr>
+<tr><td> 69</td><td>Kerrigan, Aj</td><td>Won  2-0</td><td>vs.</td><td>Ikeda, Jonathan</td></tr>
+<tr><td> 70</td><td>Ford, Wes</td><td>Won  2-0</td><td>vs.</td><td>Hudak, Joe</td></tr>
+<tr><td> 71</td><td>Wolf, Logan</td><td>Won  2-0</td><td>vs.</td><td>Tramper, Auston L</td></tr>
+<tr><td> 72</td><td>Ikerd, Christopher S</td><td>Lost 1-2</td><td>vs.</td><td>Vorel, Andy D</td></tr>
+<tr><td> 73</td><td>Kingen, Matt</td><td>Lost 1-2</td><td>vs.</td><td>Bodensteiner, Jeremiah</td></tr>
+<tr><td> 74</td><td>Stornaiuolo, Michael</td><td>Won  2-1</td><td>vs.</td><td>Silvera, Ryan</td></tr>
+<tr><td> 75</td><td>Johnson, Erik H</td><td>Won  2-1</td><td>vs.</td><td>Fyrberg, Mike D</td></tr>
+<tr><td> 76</td><td>Sandefur, Jeremy</td><td>Lost 1-2</td><td>vs.</td><td>Leblanc, Aaron</td></tr>
+<tr><td> 77</td><td>Crisp, James</td><td>Won  2-1</td><td>vs.</td><td>Bowles, Ed</td></tr>
+<tr><td> 78</td><td>Jenkins, James</td><td>Lost 1-2</td><td>vs.</td><td>Uppal, Justin A</td></tr>
+<tr><td> 79</td><td>Clark, Aaron</td><td>Lost 0-2</td><td>vs.</td><td>Vo, David T</td></tr>
+<tr><td> 80</td><td>Reyes, Erick</td><td>Lost 0-2</td><td>vs.</td><td>Heatherly, Jordan</td></tr>
+<tr><td> 81</td><td>Firer, Harlan</td><td>Won  2-0</td><td>vs.</td><td>Mathis, Matt</td></tr>
+<tr><td> 82</td><td>Card, Steven</td><td>Lost 0-2</td><td>vs.</td><td>Hoogland, Jeff</td></tr>
+<tr><td> 83</td><td>Campbell, Mariah</td><td>Won  2-0</td><td>vs.</td><td>Kochurina, Lisa</td></tr>
+<tr><td> 84</td><td>Kando, Anthony</td><td>Won  2-0</td><td>vs.</td><td>Mckay, Ally</td></tr>
+<tr><td> 85</td><td>Briksza, Rudy</td><td>Won  2-0</td><td>vs.</td><td>Butler, Thomas R</td></tr>
+<tr><td> 86</td><td>Johnson, Trenton</td><td>Won  2-1</td><td>vs.</td><td>Strong, Thomas R</td></tr>
+<tr><td> 87</td><td>Lindy, Jacob R</td><td>Won  2-1</td><td>vs.</td><td>Medina, Mycal</td></tr>
+<tr><td> 88</td><td>Troutman, Zachary</td><td>Lost 1-2</td><td>vs.</td><td>Williams, John</td></tr>
+<tr><td> 89</td><td>Novak, Carlee</td><td>Won  2-0</td><td>vs.</td><td>Canyock, Travis</td></tr>
+<tr><td> 90</td><td>Durham, Lester</td><td>Lost 1-2</td><td>vs.</td><td>Barich, Aaron</td></tr>
+<tr><td> 91</td><td>Cole, Thomas</td><td>Won  2-0</td><td>vs.</td><td>Seward, Carter</td></tr>
+<tr><td> 92</td><td>Sibley, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Simon, Darrick</td></tr>
+<tr><td> 93</td><td>Rogers, Brick</td><td>Lost 1-2</td><td>vs.</td><td>Kastel, Chad</td></tr>
+<tr><td> 94</td><td>Saville, Robert W</td><td>Lost 0-2</td><td>vs.</td><td>Mcdonough, Ryan</td></tr>
+<tr><td> 95</td><td>Marsh, Paul J</td><td>Lost 1-2</td><td>vs.</td><td>Pritchett, John</td></tr>
+<tr><td> 96</td><td>Land, Davin</td><td>Lost 0-2</td><td>vs.</td><td>Dodson, Anthony</td></tr>
+<tr><td> 97</td><td>Wall, Chris</td><td>Won  2-1</td><td>vs.</td><td>Ziet, Kevin</td></tr>
+<tr><td> 98</td><td>Sanchez, Chris L</td><td>Won  2-1</td><td>vs.</td><td>Yates, Adam</td></tr>
+<tr><td> 99</td><td>Lee, Brian</td><td>Won  2-1</td><td>vs.</td><td>Smith, Greg</td></tr>
+<tr><td>100</td><td>Durham, Lucas</td><td>Won  2-0</td><td>vs.</td><td>Kerr, James F</td></tr>
+<tr><td>101</td><td>Scott, Taylor</td><td>Lost 1-2</td><td>vs.</td><td>Carlson, Michael</td></tr>
+<tr><td>102</td><td>Hilton, Chad L</td><td>Won  2-0</td><td>vs.</td><td>Alexander, Forrest</td></tr>
+<tr><td>103</td><td>Schaffluetzel, Lester U</td><td>Won  2-1</td><td>vs.</td><td>Roper, Derrick S</td></tr>
+<tr><td>104</td><td>Calle, Christopher</td><td>Won  2-1</td><td>vs.</td><td>Allen, Chris</td></tr>
+<tr><td>105</td><td>Wong, Chris</td><td>Won  2-1</td><td>vs.</td><td>Wishon, Jacob</td></tr>
+<tr><td>106</td><td>Silvers, Cody A</td><td>Won  2-1</td><td>vs.</td><td>Funk, Jaelin</td></tr>
+<tr><td>107</td><td>Nguyen, Ryan</td><td>Lost 0-2</td><td>vs.</td><td>Wright, Matthew</td></tr>
+<tr><td>108</td><td>Robens, Charles</td><td>Lost 1-2</td><td>vs.</td><td>Mcbride, Marcus</td></tr>
+<tr><td>109</td><td>Baker, Brian N</td><td>Won  2-1</td><td>vs.</td><td>Gunnin, Logan</td></tr>
+<tr><td>110</td><td>Montano, Jacob</td><td>Lost 1-2</td><td>vs.</td><td>Miklancic, Ethan</td></tr>
+<tr><td>111</td><td>Hovis, Ryan</td><td>Won  2-1</td><td>vs.</td><td>Leutz, Joshua</td></tr>
+<tr><td>112</td><td>Keener, Adam</td><td>Lost 1-2</td><td>vs.</td><td>Thompson, Charles</td></tr>
+<tr><td>113</td><td>Baker, Corey</td><td>Lost 1-2</td><td>vs.</td><td>Hoehn, Greg</td></tr>
+<tr><td>114</td><td>Salisbury, Matthew J</td><td>Won  2-0</td><td>vs.</td><td>Day, Chris</td></tr>
+<tr><td>115</td><td>Thorne, Matt</td><td>Lost 0-2</td><td>vs.</td><td>Doerfler, Justin M</td></tr>
+<tr><td>116</td><td>Gensler, Gregg</td><td>Lost 1-2</td><td>vs.</td><td>Tammen, Marc</td></tr>
+<tr><td>117</td><td>Powell, Jacob</td><td>Won  2-1</td><td>vs.</td><td>Christopher, Grant E</td></tr>
+<tr><td>118</td><td>Warren, Jesse</td><td>Won  2-1</td><td>vs.</td><td>Skoglund, Dan</td></tr>
+<tr><td>119</td><td>Bonilla, Byron</td><td>Lost 1-2</td><td>vs.</td><td>Shenhar, Shahar</td></tr>
+<tr><td>120</td><td>Castillo, Jonathan</td><td>Lost 1-2</td><td>vs.</td><td>Nash, Brandon</td></tr>
+<tr><td>121</td><td>Worley, Chris T</td><td>Lost 1-2</td><td>vs.</td><td>Hayes, James</td></tr>
+<tr><td>122</td><td>Blackburn, Richard</td><td>Won  2-1</td><td>vs.</td><td>Mcmurry, Chris</td></tr>
+<tr><td>123</td><td>Mahaffey, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Greer, Joseph C</td></tr>
+<tr><td>124</td><td>Taliaferro, Ryland</td><td>Lost 1-2</td><td>vs.</td><td>Le, Adam</td></tr>
+<tr><td>125</td><td>Evans, Michael</td><td>Lost 0-2</td><td>vs.</td><td>Newsome, Alex C</td></tr>
+<tr><td>126</td><td>Peretz, Michael</td><td>Lost 0-2</td><td>vs.</td><td>Parker, James</td></tr>
+<tr><td>127</td><td>Jensen, William H</td><td>Lost 1-2</td><td>vs.</td><td>Buckingham, James R</td></tr>
+<tr><td>128</td><td>Peeler, Matthew</td><td>Lost 0-2</td><td>vs.</td><td>Shiau, David</td></tr>
+<tr><td>129</td><td>Vanstory, William</td><td>Won  2-1</td><td>vs.</td><td>Hymel, Eric</td></tr>
+<tr><td>130</td><td>Treadway, K. C.</td><td>Lost 1-2</td><td>vs.</td><td>Koerschner, Nathan</td></tr>
+<tr><td>131</td><td>Reckenberger, Jeremy</td><td>Won  2-0</td><td>vs.</td><td>Allen, Michael</td></tr>
+<tr><td>132</td><td>Smith, Allie</td><td>Won  2-0</td><td>vs.</td><td>Rowe, Alan</td></tr>
+<tr><td>133</td><td>Dorsey, Brooks</td><td>Won  2-0</td><td>vs.</td><td>Byam, Derek</td></tr>
+<tr><td>134</td><td>Pate, Christian</td><td>Won  2-1</td><td>vs.</td><td>Farrow, John W</td></tr>
+<tr><td>135</td><td>Roohi, Arya</td><td>Lost 1-2</td><td>vs.</td><td>Ray, Jacob</td></tr>
+<tr><td>136</td><td>Stornaiuolo, Aron</td><td>Lost 1-2</td><td>vs.</td><td>Leach, Alan</td></tr>
+<tr><td>137</td><td>Hicks, Chris</td><td>Lost 0-2</td><td>vs.</td><td>Dupal, Stephen M</td></tr>
+<tr><td>138</td><td>Park, Sean</td><td>Won  2-0</td><td>vs.</td><td>Howell, Damon M</td></tr>
+<tr><td>139</td><td>Chang, Morgan M</td><td>Won  2-0</td><td>vs.</td><td>Okashah, Adam</td></tr>
+<tr><td>140</td><td>Findley, Anna E</td><td>Won  2-0</td><td>vs.</td><td>Knarich, Rickie</td></tr>
+<tr><td>141</td><td>Illenye, Kory</td><td>Lost 0-2</td><td>vs.</td><td>Womick, Jennifer</td></tr>
+<tr><td>142</td><td>Trinka, Von</td><td>Lost 0-2</td><td>vs.</td><td>Goanos, Steven</td></tr>
+<tr><td>143</td><td>Waite, Marty</td><td>Lost 0-2</td><td>vs.</td><td>Black, Samir B</td></tr>
+<tr><td>144</td><td>Gunnin (015), Lance E</td><td>Lost 0-2</td><td>vs.</td><td>Stuller, Chris M</td></tr>
+<tr><td>145</td><td>Reed, David S</td><td>Won  2-0</td><td>vs.</td><td>Aird, Sean</td></tr>
+<tr><td>146</td><td>Emmert, Joey C</td><td>Lost 0-2</td><td>vs.</td><td>Hatfield, Cody</td></tr>
+<tr><td>147</td><td>Fields, Nicholas</td><td>Lost 0-2</td><td>vs.</td><td>Casali, Dominic M</td></tr>
+<tr><td>148</td><td>De La Cruz, Fernando</td><td>Won  2-1</td><td>vs.</td><td>Moore, Ricky</td></tr>
+<tr><td>149</td><td>Klohr, Trevor</td><td>Lost 0-2</td><td>vs.</td><td>Matheny, Brandon</td></tr>
+<tr><td>150</td><td>Lee, Chris</td><td>Lost 0-2</td><td>vs.</td><td>Berryhill, Ellison</td></tr>
+<tr><td>151</td><td>Handy, Sean M</td><td>Lost 0-2</td><td>vs.</td><td>Frear, Joshua</td></tr>
+<tr><td>152</td><td>Eldred, Tim B</td><td>Lost 1-2</td><td>vs.</td><td>Derr, Joseph</td></tr>
+<tr><td>153</td><td>Schreier, Todd</td><td>Won  2-1</td><td>vs.</td><td>Bieganek, Chris</td></tr>
+<tr><td>154</td><td>Williams, Eric</td><td>Lost 0-2</td><td>vs.</td><td>Squires, Robert M</td></tr>
+<tr><td>155</td><td>Cobb, Daniel</td><td>Won  2-0</td><td>vs.</td><td>Sams, Freddy</td></tr>
+<tr><td>156</td><td>Dempsey, Brandon</td><td>Won  2-1</td><td>vs.</td><td>Kelly, Ozzy</td></tr>
+<tr><td>157</td><td>Hess, James D</td><td>Won  2-0</td><td>vs.</td><td>Shield, Jeffrey R</td></tr>
+<tr><td>158</td><td>Ortiz, Jose</td><td>Lost 1-2</td><td>vs.</td><td>Grooms, William</td></tr>
+<tr><td>159</td><td>Mitchell, Dakota L</td><td>Won  2-0</td><td>vs.</td><td>Spencer, Jeremy B</td></tr>
+<tr><td>160</td><td>Jordan, James A</td><td>Won  2-0</td><td>vs.</td><td>Coleman, Josh</td></tr>
+<tr><td>161</td><td>Ake, Albert</td><td>Lost 0-2</td><td>vs.</td><td>Piland, Jesse R</td></tr>
+<tr><td>162</td><td>Swartz, Shane</td><td>Lost 0-2</td><td>vs.</td><td>Vicars, Mark</td></tr>
+<tr><td>163</td><td>Piper, John</td><td>Won  2-0</td><td>vs.</td><td>Scheuren, Robert</td></tr>
+<tr><td>164</td><td>Turner, Jacob Barrett</td><td>Won  2-1</td><td>vs.</td><td>Miles, Brandon</td></tr>
+<tr><td>165</td><td>Drake, Geoffrey</td><td>Won  2-0</td><td>vs.</td><td>Cummings, Randy</td></tr>
+<tr><td>166</td><td>Canard, Justin</td><td>Won  2-0</td><td>vs.</td><td>Holenko, Jeremy</td></tr>
+<tr><td>167</td><td>James, Andrew</td><td>Lost 1-2</td><td>vs.</td><td>Alvarez, Joaquin</td></tr>
+<tr><td>168</td><td>Hubbard, Richard A</td><td>Lost 0-2</td><td>vs.</td><td>Pfender, Edward F</td></tr>
+<tr><td>169</td><td>Graves, Thomas</td><td>Lost 1-2</td><td>vs.</td><td>Sloan, Stephen</td></tr>
+<tr><td>170</td><td>Miller, Daniel P</td><td>Lost 1-2</td><td>vs.</td><td>Johnson, Chris</td></tr>
+<tr><td>171</td><td>Maynard, Elbert</td><td>Lost 0-2</td><td>vs.</td><td>Platt, Michael B</td></tr>
+<tr><td>172</td><td>Smith, Derrik A</td><td>Lost 0-2</td><td>vs.</td><td>Baker, Jc</td></tr>
+<tr><td>173</td><td>Morris, Jonathan B</td><td>Won  2-0</td><td>vs.</td><td>Persinger, Jason</td></tr>
+<tr><td>174</td><td>Turner, Kyle</td><td>Won  2-0</td><td>vs.</td><td>Mcreynolds, Josh</td></tr>
+<tr><td>175</td><td>Shepard, Jacob</td><td>Won  2-1</td><td>vs.</td><td>Minton, Nick</td></tr>
+<tr><td>176</td><td>Jeffries, Austin</td><td>Won  2-0</td><td>vs.</td><td>Meagher, Jack</td></tr>
+<tr><td>177</td><td>Tucker, Josh</td><td>Lost 0-2</td><td>vs.</td><td>Allen, Evan</td></tr>
+<tr><td>178</td><td>Bolt, John G</td><td>Won  2-0</td><td>vs.</td><td>Oueijan, Reyad</td></tr>
+<tr><td>179</td><td>Tietze, Maxwell B</td><td>Won  2-0</td><td>vs.</td><td>Bryant, Michael J</td></tr>
+<tr><td>180</td><td>Schneider, Travis S</td><td>Won  2-1</td><td>vs.</td><td>Bibby, Breeanna</td></tr>
+<tr><td>181</td><td>Sweeney, Austin</td><td>Lost 0-2</td><td>vs.</td><td>Fender, Tomme</td></tr>
+<tr><td>182</td><td>Triebenbacher, Elliott</td><td>Won  2-1</td><td>vs.</td><td>Hunter, Cordell</td></tr>
+<tr><td>183</td><td>Woods, Russell</td><td>Won  2-1</td><td>vs.</td><td>Ogg, Matthew</td></tr>
+<tr><td>184</td><td>Quizon, Rj</td><td>Won  2-1</td><td>vs.</td><td>Polimine, Wayne</td></tr>
+<tr><td>185</td><td>Lowery, Cw</td><td>Won  2-0</td><td>vs.</td><td>Cruz, Justin</td></tr>
+<tr><td>186</td><td>Ditmore, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Cobb, Richard</td></tr>
+<tr><td>187</td><td>Morris, Calvin</td><td>Lost 0-2</td><td>vs.</td><td>Evans, Scott</td></tr>
+<tr><td>188</td><td>Lowry, Anthony S</td><td>Won  2-0</td><td>vs.</td><td>Maszalek, Adam</td></tr>
+<tr><td>189</td><td>Barkley, Nathan</td><td>Lost 1-2</td><td>vs.</td><td>Sprinkle, Caleb</td></tr>
+<tr><td>190</td><td>Darran, Jeff</td><td>Lost 0-2</td><td>vs.</td><td>Harris, Edwin</td></tr>
+<tr><td>191</td><td>Mcabee, Logan</td><td>Lost 0-2</td><td>vs.</td><td>Mcmillin, Jared</td></tr>
+<tr><td>192</td><td>Goodwin, Adam</td><td>Lost 0-2</td><td>vs.</td><td>Reilly, Mike F</td></tr>
+<tr><td>193</td><td>Haney, Lux</td><td>Lost 0-2</td><td>vs.</td><td>Bigford, Roland E</td></tr>
+<tr><td>194</td><td>Le, Tan</td><td>Won  2-0</td><td>vs.</td><td>Whitt, Shaun M</td></tr>
+<tr><td>195</td><td>Justice, Will</td><td>Lost 0-2</td><td>vs.</td><td>Gallot, Keith</td></tr>
+<tr><td>196</td><td>Upshaw, Justin L</td><td>Lost 0-2</td><td>vs.</td><td>Wright, Robert B</td></tr>
+<tr><td>197</td><td>Knutson, Tim</td><td>Lost 0-2</td><td>vs.</td><td>Lantz, Jacob</td></tr>
+<tr><td>198</td><td>Roark, Kenneth</td><td>Won  2-0</td><td>vs.</td><td>Schmidt, Adam</td></tr>
+<tr><td>199</td><td>Turner, Maxx E</td><td>Lost 0-2</td><td>vs.</td><td>Grace, Tannon</td></tr>
+<tr><td>200</td><td>Mason, Stacey</td><td>Lost 1-2</td><td>vs.</td><td>Aintrazi, Ali I</td></tr>
+<tr><td>201</td><td>Ori, Ryan P</td><td>Won  2-1</td><td>vs.</td><td>Gaddis, Keaton</td></tr>
+<tr><td>202</td><td>Crenan, Jesse</td><td>Won  2-0</td><td>vs.</td><td>Horn, Corey</td></tr>
+<tr><td>203</td><td>Wallace, Tony P</td><td>Won  2-0</td><td>vs.</td><td>Mcduffie, Korey</td></tr>
+<tr><td>204</td><td>Goanos, George</td><td>Won  2-0</td><td>vs.</td><td>Swanson, Dylan</td></tr>
+<tr><td>205</td><td>O'Donnell, Connor</td><td>Won  2-0</td><td>vs.</td><td>Wang, Chen</td></tr>
+<tr><td>206</td><td>Fuson, Joey</td><td>Lost 0-2</td><td>vs.</td><td>Clower, Justin</td></tr>
+<tr><td>207</td><td>Yeh, Martin</td><td>Won  2-0</td><td>vs.</td><td>Ball, Edward</td></tr>
+<tr><td>208</td><td>Biggers, Dustin</td><td>Won  2-0</td><td>vs.</td><td>Mcclellan, Sam</td></tr>
+<tr><td>209</td><td>Horn, Jeremy</td><td>Won  2-0</td><td>vs.</td><td>Bise, Justin</td></tr>
+<tr><td>210</td><td>Herring, Allyxander</td><td>Lost 0-2</td><td>vs.</td><td>Young, Cj</td></tr>
+<tr><td>211</td><td>King, Ryan</td><td>Won  2-1</td><td>vs.</td><td>Albright, Alex</td></tr>
+<tr><td>212</td><td>Saia, Joseph</td><td>Won  2-0</td><td>vs.</td><td>Adkins, Cam</td></tr>
+<tr><td>213</td><td>Korman, James</td><td>Lost 0-2</td><td>vs.</td><td>Sim, John</td></tr>
+<tr><td>214</td><td>Johnson, Danny</td><td>Lost 1-2</td><td>vs.</td><td>Flowers, Robert</td></tr>
+<tr><td>215</td><td>Patel, Bhargar</td><td>Lost 1-2</td><td>vs.</td><td>Bassham, Scott</td></tr>
+<tr><td>216</td><td>Pendergast, Thomas</td><td>Lost 1-2</td><td>vs.</td><td>Pawlik, Ryan D</td></tr>
+<tr><td>217</td><td>Lekan, Aj</td><td>Lost 1-2</td><td>vs.</td><td>Brooks, Patrick</td></tr>
+<tr><td>218</td><td>Tapp, Crystal</td><td>Won  2-1</td><td>vs.</td><td>Mcdonald, Blake</td></tr>
+<tr><td>219</td><td>Speight, Jacob</td><td>Won  2-1</td><td>vs.</td><td>Ripley, Andy</td></tr>
+<tr><td>220</td><td>Shiles, Dustin</td><td>Drew 1-1-1</td><td>vs.</td><td>Casey, Shawn</td></tr>
+<tr><td>221</td><td>Graves, Alex</td><td>Lost 1-2</td><td>vs.</td><td>Truong, Long</td></tr>
+<tr><td>222</td><td>Best, Jesse</td><td>Won  2-0</td><td>vs.</td><td>Thomas, Jibri</td></tr>
+<tr><td>223</td><td>Johnson, Jordan</td><td>Won  2-1</td><td>vs.</td><td>Mccoy, Aaron</td></tr>
+<tr><td>224</td><td>Butler, Bryan</td><td>Lost 0-2</td><td>vs.</td><td>Zuniga, Robert</td></tr>
+<tr><td>225</td><td>Ryan, Zak</td><td>Won  2-0</td><td>vs.</td><td>Mathis, Justin</td></tr>
+<tr><td>226</td><td>Sparks, James</td><td>Lost 0-2</td><td>vs.</td><td>Abbott, Steven</td></tr>
+<tr><td>227</td><td>Durham, Jacob</td><td>Won  2-0</td><td>vs.</td><td>Strack, Dalton</td></tr>
+<tr><td>228</td><td>Spangler, Evan</td><td>Lost 1-2</td><td>vs.</td><td>Stenstrom, Grant</td></tr>
+<tr><td>229</td><td>Cook, Cody</td><td>Lost 1-2</td><td>vs.</td><td>Gamble, Andrew</td></tr>
+<tr><td>230</td><td>Starbuck, Taylor</td><td>Lost 0-2</td><td>vs.</td><td>Morrison, Matt</td></tr>
+<tr><td>231</td><td>Marshall, Fred</td><td>Won  2-0</td><td>vs.</td><td>Bosley, Ian</td></tr>
+<tr><td>232</td><td>Brown, Lawrence</td><td>Lost 0-2</td><td>vs.</td><td>Baboussis, George</td></tr>
+<tr><td>233</td><td>Mccracken, Brent</td><td>Won  2-0</td><td>vs.</td><td>Little, Nicholas</td></tr>
+<tr><td>234</td><td>King, Matthew</td><td>Lost 1-2</td><td>vs.</td><td>Acton, Bradford</td></tr>
+<tr><td>235</td><td>Skinner, Caleb</td><td>Won  2-0</td><td>vs.</td><td>Steel, Jake</td></tr>
+<tr><td>236</td><td>Bracken, Nicholas</td><td>Won  2-0</td><td>vs.</td><td>Casteel, Philip</td></tr>
+<tr><td>237</td><td>Miller, Robbie</td><td>Won  2-0</td><td>vs.</td><td>Sullivan, Matthew</td></tr>
+<tr><td>238</td><td>Searby, Sam</td><td>Drew 1-1-1</td><td>vs.</td><td>Khatipov, Ruslan</td></tr>
+<tr><td>239</td><td>Evans, Alex G</td><td>Won  2-1</td><td>vs.</td><td>Cudia, Ben</td></tr>
+<tr><td>240</td><td>Hall, Jesse</td><td>Lost 0-2</td><td>vs.</td><td>Sudendorf, Vanessa</td></tr>
+<tr><td>241</td><td>Hines, Justin W</td><td>Won  2-0</td><td>vs.</td><td>Johnson, Carl</td></tr>
+<tr><td>242</td><td>Mann, Michael</td><td>Won  2-0</td><td>vs.</td><td>Speight, Joshua</td></tr>
+<tr><td>243</td><td>Clark, Mason</td><td>Lost 0-2</td><td>vs.</td><td>Stout, Spencer</td></tr>
+<tr><td>244</td><td>Riebling, Dan</td><td>Won  2-0</td><td>vs.</td><td>Alcorn, Austin</td></tr>
+<tr><td>245</td><td>Marszalek, Nicholas</td><td>Lost 1-2</td><td>vs.</td><td>Curry, James</td></tr>
+<tr><td>246</td><td>Rosenfeld, Ian</td><td>Won  2-1</td><td>vs.</td><td>Holliday, Brian</td></tr>
+<tr><td>247</td><td>Garcia, Theodore</td><td>Lost 1-2</td><td>vs.</td><td>Sears, Charles L</td></tr>
+<tr><td>248</td><td>Langham, Jeromie</td><td>Won  2-0</td><td>vs.</td><td>Pennington, John</td></tr>
+<tr><td>249</td><td>Rose, Brandon</td><td>Won  2-1</td><td>vs.</td><td>Jones, John</td></tr>
+<tr><td>250</td><td>Sparks, Jon G</td><td>Lost 0-2</td><td>vs.</td><td>Ashton, Korey M</td></tr>
+<tr><td>251</td><td>Arteaga, Noel</td><td>Won  2-1</td><td>vs.</td><td>Goodman, Austin</td></tr>
+<tr><td>252</td><td>Caron, Alex</td><td>Won  2-0</td><td>vs.</td><td>Curtis, Chris</td></tr>
+<tr><td>253</td><td>Tammen, Jonathan</td><td>Won  2-1</td><td>vs.</td><td>Collins, Jason E</td></tr>
+<tr><td>254</td><td>Novacek, Kelsey</td><td>Won  1-0-1</td><td>vs.</td><td>Johson, Marv</td></tr>
+<tr><td>255</td><td>Warren, Edward P</td><td>Won  2-1</td><td>vs.</td><td>Lanford, Aaron</td></tr>
+<tr><td>256</td><td>Beasley, Jess</td><td>Lost 1-2</td><td>vs.</td><td>Ware, Larry</td></tr>
+<tr><td>257</td><td>Serano, Joshua P</td><td>Won  2-0</td><td>vs.</td><td>Gibson, Brian</td></tr>
+<tr><td>258</td><td>Allison, Justin</td><td>Won  2-0</td><td>vs.</td><td>Gonyo, Victor E</td></tr>
+<tr><td>259</td><td>Hazel, Gabe</td><td>Won  2-0</td><td>vs.</td><td>Clawson, Carl</td></tr>
+<tr><td>260</td><td>Prater, John W</td><td>Won  2-1</td><td>vs.</td><td>Gunnin (199), Lance</td></tr>
+<tr><td>261</td><td>Williams, Antoine</td><td>Won  2-0</td><td>vs.</td><td>Borries, Buzz</td></tr>
+<tr><td>262</td><td>Allen, John</td><td>Lost 1-2</td><td>vs.</td><td>Wawak, Amanda</td></tr>
+<tr><td>263</td><td>Longhurst, Kenneth J</td><td>Lost 1-2</td><td>vs.</td><td>Alvarez, Mike</td></tr>
+<tr><td>264</td><td>O'Connor, Andrew</td><td>Won  2-0</td><td>vs.</td><td>Ryals, Brandon</td></tr>
+<tr><td>265</td><td>Smith, Matthew</td><td>Lost 0-2</td><td>vs.</td><td>Samples, Michelle</td></tr>
+<tr><td>266</td><td>Moody, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Jones, David T</td></tr>
+<tr><td>267</td><td>Leydens, Kerey J</td><td>Won  2-1</td><td>vs.</td><td>Reyas-Rabell, Hiram</td></tr>
+<tr><td>268</td><td>Eggert, Jeremy</td><td>Lost 1-2</td><td>vs.</td><td>Byam, Alan R</td></tr>
+<tr><td>269</td><td>Elkins, Justin</td><td>Lost 1-2</td><td>vs.</td><td>Brooks, Tyler</td></tr>
+<tr><td>270</td><td>Hays, Robert</td><td>Lost 0-2</td><td>vs.</td><td>Frank, Matt</td></tr>
+<tr><td>271</td><td>Gillis, David</td><td>Lost 0-2</td><td>vs.</td><td>Klein, Kyle</td></tr>
+<tr><td>272</td><td>Sugg, Austin</td><td>Won  2-0</td><td>vs.</td><td>Brooks, Graham</td></tr>
+<tr><td>273</td><td>Ashworth, Michael</td><td>Won  2-0</td><td>vs.</td><td>Santos, Alex</td></tr>
+<tr><td>275</td><td>Harris, Kenya</td><td>Won  2-0</td><td>vs.</td><td>Barnard, Cole</td></tr>
+<tr><td>276</td><td>Goodwin, Tim</td><td>Won  2-0</td><td>vs.</td><td>Bailey, Dustin</td></tr>
+<tr><td>277</td><td>Chapman, William</td><td>Lost 0-2</td><td>vs.</td><td>Mcginn, Trey</td></tr>
+<tr><td>278</td><td>Hale, Chris</td><td>Lost 1-2</td><td>vs.</td><td>Jensen, Jacob</td></tr>
+<tr><td>279</td><td>White, Carlos</td><td>Lost 0-2</td><td>vs.</td><td>Doshi, Vedhas</td></tr>
+<tr><td>280</td><td>Dogan, Cedric</td><td>Won  2-0</td><td>vs.</td><td>Jackson, Justin</td></tr>
+<tr><td>   </td><td>Williams, James I</td><td> </td><td> </td><td>* BYE *</td></tr>
+</table>

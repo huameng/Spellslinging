@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>SCG Test Profile</title>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="../elo.js" charset="utf-8"></script>
+  <script src="../profile.js" charset="utf-8"></script>
+  <script src="../d3.legend.js" charset="utf-8"></script>
+</head>
+<body>
+<style>
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+.legend rect {
+  fill:white;
+  stroke:black;
+  opacity:0.8;}
+</style>
+<div id="graph">
+<script>
+doIt("bernaljoew", "Joe Bernal");
+</script>
+</body>
+</html>
